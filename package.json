@@ -1,0 +1,15 @@
+{
+  "name": "brewname",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jesperorb",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "got": "^11.8.0",
+    "typescript": "^4.0.5",
+    "wink-pos-tagger": "^2.2.2"
+  }
+}
